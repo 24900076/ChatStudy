@@ -128,7 +128,7 @@ server.close()
 ```
 
 ## Output:
-<img width="1461" height="394" alt="image" src="https://github.com/user-attachments/assets/55cee618-58f3-4fe2-953f-8e4b4753c830" />
+<img width="1170" height="396" alt="image" src="https://github.com/user-attachments/assets/2e15e070-d0d9-4f16-8c2a-e884205373ac" />
 
 
 ## Result:
